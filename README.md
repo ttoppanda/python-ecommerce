@@ -6,6 +6,12 @@ Simple e-commerce app using React and Python.
 
 To run the app, you need to have docker and docker-compose installed.
 
+Fetch the submodules:
+
+```bash
+git submodule update --init --recursive
+```
+
 Then, run the following command:
 
 ```bash
